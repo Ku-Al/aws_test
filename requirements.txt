@@ -1,4 +1,4 @@
 boto3==1.7.14
 awscli==1.15.14
 urllib3==1.21.1
-paramiko==2.4.1
+paramiko==2.10.1
